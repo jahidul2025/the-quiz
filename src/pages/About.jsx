@@ -27,8 +27,10 @@ export default function About() {
           About TriviaMaster
         </h1>
         <p className="text-slate-400 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-light">
-          TriviaMaster is a premium portal designed to make learning modern web development technologies fun, visual, and highly efficient. 
+          TriviaMaster is a premium portal designed to make learning modern web development technologies fun, visual, and highly efficient.
         </p>
+
+
       </div>
 
       {/* Main card description */}
@@ -38,7 +40,7 @@ export default function About() {
             Our Vision
           </h2>
           <p className="text-slate-400 text-sm md:text-base leading-relaxed">
-            Many learning platforms present questions but omit quick interactive feedback. TriviaMaster addresses this by displaying correct/incorrect color prompts immediately when an option is selected. 
+            Many learning platforms present questions but omit quick interactive feedback. TriviaMaster addresses this by displaying correct/incorrect color prompts immediately when an option is selected.
           </p>
           <p className="text-slate-400 text-sm md:text-base leading-relaxed">
             This active recall system combined with immediate feedback is scientifically proven to double information retention speeds.
